@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
     }
     private fun openFlashlight(){
 
+
     }
 }
